@@ -69,3 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# prevent-safety-app" 
+## License
+© 2025 Humayl Shoukat. All Rights Reserved.
+This project is proprietary and may not be copied, modified, or distributed without permission.
